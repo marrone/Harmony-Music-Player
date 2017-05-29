@@ -23,22 +23,22 @@
         android:id="@+id/action_search"
         android:icon="@drawable/abc_ic_search_api_mtrl_alpha"
         android:title="@string/action_search"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
 
     <item
         android:id="@+id/action_equalizer"
         android:title="@string/action_equalizer"
-        app:showAsAction="never" />
+        app:showAsAction="always" />
 
     <item
         android:id="@+id/action_sleep_timer"
         android:title="@string/action_sleep_timer"
-        app:showAsAction="never" />
+        app:showAsAction="always" />
 
     <item
         android:id="@+id/action_preferences"
         android:title="@string/preferences"
-        app:showAsAction="never" />
+        app:showAsAction="always" />
 
 
 </menu>

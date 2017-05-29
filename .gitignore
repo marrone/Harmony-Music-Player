@@ -5,3 +5,6 @@ composer.phar
 .DS_Store
 /build
 *.iml
+
+*.swp
+*.swo

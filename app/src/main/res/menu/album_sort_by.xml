@@ -19,7 +19,7 @@
 
     <item
         android:id="@+id/menu_sort_by"
-        app:showAsAction="never"
+        app:showAsAction="always"
         android:title="@string/menu_sort_by">
         <menu>
             <item
